@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/erica-website/static/css/main.af4c1fdb.css",
-    "main.js": "/erica-website/static/js/main.33675a86.js",
+    "main.js": "/erica-website/static/js/main.f3917ba8.js",
     "static/js/453.dacfd1ff.chunk.js": "/erica-website/static/js/453.dacfd1ff.chunk.js",
     "index.html": "/erica-website/index.html",
     "main.af4c1fdb.css.map": "/erica-website/static/css/main.af4c1fdb.css.map",
-    "main.33675a86.js.map": "/erica-website/static/js/main.33675a86.js.map",
+    "main.f3917ba8.js.map": "/erica-website/static/js/main.f3917ba8.js.map",
     "453.dacfd1ff.chunk.js.map": "/erica-website/static/js/453.dacfd1ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af4c1fdb.css",
-    "static/js/main.33675a86.js"
+    "static/js/main.f3917ba8.js"
   ]
 }
