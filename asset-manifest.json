@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/erica-website/static/css/main.d7c063d5.css",
-    "main.js": "/erica-website/static/js/main.11c9d1d8.js",
+    "main.css": "/erica-website/static/css/main.35323e08.css",
+    "main.js": "/erica-website/static/js/main.1046783c.js",
     "static/js/453.dacfd1ff.chunk.js": "/erica-website/static/js/453.dacfd1ff.chunk.js",
     "static/media/pfp.JPG": "/erica-website/static/media/pfp.bb278a02ab9fe098bbe0.JPG",
     "index.html": "/erica-website/index.html",
-    "main.d7c063d5.css.map": "/erica-website/static/css/main.d7c063d5.css.map",
-    "main.11c9d1d8.js.map": "/erica-website/static/js/main.11c9d1d8.js.map",
+    "main.35323e08.css.map": "/erica-website/static/css/main.35323e08.css.map",
+    "main.1046783c.js.map": "/erica-website/static/js/main.1046783c.js.map",
     "453.dacfd1ff.chunk.js.map": "/erica-website/static/js/453.dacfd1ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7c063d5.css",
-    "static/js/main.11c9d1d8.js"
+    "static/css/main.35323e08.css",
+    "static/js/main.1046783c.js"
   ]
 }
