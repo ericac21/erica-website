@@ -1,0 +1,67 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 100vh;
+    padding-top: 280px;
+    padding-left: 10vw;
+    background-color: #01153E;
+    color: white;
+  }
+  
+  .typewriter {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    color: white;
+  }
+  
+  .cursor {
+    display: inline-block;
+    width: 2px;
+    height: 50px;
+    background-color: white;
+    margin-left: 2px;
+    animation: blink 1s step-end infinite;
+  }
+  
+  @keyframes blink {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+  
+  .subtitle {
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight: 600;
+    color: #b0bcd0;
+  }
+  
+  .description {
+    margin-top: 20px;
+    max-width: 600px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #a8b2d1;
+  }
+  
+  .cta-button {
+    margin-top: 50px;
+    display: inline-block;
+    padding: 12px 24px;
+    border: 1px solid #64ffda;
+    color: #64ffda;
+    font-weight: 500;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: rgba(100, 255, 218, 0.1);
+  }
+  

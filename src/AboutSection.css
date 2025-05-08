@@ -1,0 +1,46 @@
+.about-section {
+    background-color: #01153E;
+    color: #ccd6f6;
+    padding: 120px 10vw;
+    min-height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .about-content {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    max-width: 1200px;
+    flex-wrap: wrap;
+  }
+  
+  .about-text {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .about-text h2 {
+    font-size: 42px;
+    margin-bottom: 30px;
+    color: #64ffda;
+  }
+  
+  .about-text p {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+    max-width: 800px;
+  }
+  
+  .about-image {
+    flex-shrink: 0;
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #ccd6f6;
+  }
+  
